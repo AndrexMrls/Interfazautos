@@ -1,6 +1,6 @@
 # 🚗 Concesionario de Vehículos - Aplicación Java Swing
 
-Esta es una aplicación de escritorio desarrollada en **Java Swing** que simula un sistema de gestión para un **concesionario de autos**. Permite visualizar un catálogo de vehículos, acceder a los detalles de cada uno y simular una compra. Fue creada aplicando los principios de la **Programación Orientada a Objetos (POO)**.
+Esta es una aplicación de escritorio desarrollada en **Java Swing** que simula un sistema de gestión para un **concesionario de autos**. Permite visualizar un catálogo de vehículos, y simular una compra. Fue creada aplicando los principios de la **Programación Orientada a Objetos (POO)**.
 
 ---
 
